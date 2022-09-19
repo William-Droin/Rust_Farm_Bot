@@ -1,4 +1,10 @@
-# Rust Farm Bot
+<h1 align="center">
+  <br>
+  <a><img src="https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.png" alt="Markdownify" width="200"></a>
+  <br>
+  Rust Farm Bot
+  <br>
+</h1>
 
 A farming Bot for the survival game [Rust](https://rust.facepunch.com/)
 The Bot is using machine learning and computer vision to recognise the ressources to gather.
