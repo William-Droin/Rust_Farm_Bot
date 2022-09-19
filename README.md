@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a><img src="https://github.com/William-Droin/Rust_Farm_Bot/blob/main/Rust_Farming_Bot_Logo_Cropped.png" alt="Markdownify" width="400"></a>
+  <a><img src="https://github.com/William-Droin/Rust_Farm_Bot/blob/main/Rust_Farming_Bot_Logo_Cropped.png" alt="Markdownify" width="250"></a>
   <br>
   Rust Farm Bot
   <br>
