@@ -5,7 +5,7 @@ The Bot is using machine learning and computer vision to recognise the ressource
 
 ## The Goals
 
-- 1) Train an Ai to accurately detect the ressources to gather
-- 2) Create a path finding Algorithm to enable the bot to walk in the game and gather the ressources.
-- 3) Organise a competition between the members of the community to design the best path finding algorithm.
+- Train an Ai to accurately detect the ressources to gather
+- Create a path finding Algorithm to enable the bot to walk in the game and gather the ressources.
+- Organise a competition between the members of the community to design the best path finding algorithm.
 
