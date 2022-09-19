@@ -16,3 +16,5 @@ The Bot is using machine learning and computer vision to recognise the ressource
 - Organise a competition between the members of the community to design the best path finding algorithm.
 
 ## <a><img src="https://github.com/William-Droin/Rust_Farm_Bot/blob/main/Discord_logo.png" width="25px" height="25px" alt="Discord_Logo"></a> Discord
+
+Join The Project on discord: https://discord.gg/4weS4r6eGW
