@@ -14,3 +14,5 @@ The Bot is using machine learning and computer vision to recognise the ressource
 - Train an Ai to accurately detect the ressources to gather
 - Create a path finding Algorithm to enable the bot to walk in the game and gather the ressources.
 - Organise a competition between the members of the community to design the best path finding algorithm.
+
+## <a href="https://emoji.gg/emoji/3636-discord-logo"><img src="https://cdn3.emoji.gg/emojis/3636-discord-logo.png" width="64px" height="64px" alt="Discord_Logo"></a> Discord
