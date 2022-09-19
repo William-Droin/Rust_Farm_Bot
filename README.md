@@ -1,10 +1,6 @@
-<h1 align="center">
-  <br>
-  <a><img src="https://github.com/William-Droin/Rust_Farm_Bot/blob/main/Rust_Bot_logo.png" alt="Markdownify" width="400"></a>
-  <br>
-  Rust Farm Bot
-  <br>
-</h1>
+<a><img src="https://github.com/William-Droin/Rust_Farm_Bot/blob/main/Rust_Bot_logo.png" alt="Markdownify" width="400"></a>
+
+# Rust Farm Bot
 
 A farming Bot for the survival game [Rust](https://rust.facepunch.com/)
 The Bot is using machine learning and computer vision to recognise the ressources to gather.
